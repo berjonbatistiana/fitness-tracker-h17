@@ -7,7 +7,8 @@
 
 ## Description 
 
-
+This application uses mongoDB to store your workouts and exercises and lists them for you to keep track of and 
+displays data on your progress.
 
 ## Table of Contents
 
