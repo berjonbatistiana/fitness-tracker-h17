@@ -21,6 +21,9 @@
 Please use npm i to install all the packages and run npm start after.
 Make sure to have your own .env
 
+There is an initial seed you can run using node seeders/seed.js to
+populate your database with initial data.
+
 ## License
 
 No registered license.
